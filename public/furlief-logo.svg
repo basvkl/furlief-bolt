@@ -1,0 +1,18 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Paw Print Icon -->
+  <g transform="translate(10, 15)">
+    <!-- Main pad -->
+    <ellipse cx="15" cy="20" rx="8" ry="6" fill="#F9A826"/>
+    
+    <!-- Toe pads -->
+    <ellipse cx="8" cy="10" rx="4" ry="3" fill="#F9A826"/>
+    <ellipse cx="15" cy="8" rx="4" ry="3" fill="#F9A826"/>
+    <ellipse cx="22" cy="10" rx="4" ry="3" fill="#F9A826"/>
+    <ellipse cx="25" cy="16" rx="3" ry="2.5" fill="#F9A826"/>
+  </g>
+  
+  <!-- Furlief Text -->
+  <text x="50" y="38" font-family="Montserrat, sans-serif" font-size="24" font-weight="700" fill="#0E2A47">
+    Furlief
+  </text>
+</svg>
